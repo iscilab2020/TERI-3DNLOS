@@ -2,8 +2,7 @@
 3D NLOS imaging with an ordinary camera
 
 Manuscript:
-% Czajkowski, R. and Murray-Bruce, J., 'Two-edge-resolved three-dimensional non-line-of-sight
-% imaging with an ordinary camera', Nat. Commun., 2023.
+Czajkowski, R. and Murray-Bruce, J., 'Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera', Nat. Commun., 2023.
 
 
 The contents of this folder include MATLAB scripts for reproducing results in the manuscript (and its supplementary information document).
