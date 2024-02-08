@@ -1,12 +1,11 @@
 # TERI-3DNLOS
-3D NLOS imaging with an ordinary camera
+Demonstrates 3D NLOS imaging with an ordinary camera
 
 Manuscript:
-Czajkowski, R. and Murray-Bruce, J., 'Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera', Nat. Commun., 2023.
+Czajkowski, R., Murray-Bruce, J. Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera. Nat Commun 15, 1162 (2024). 
+DOI: https://doi.org/10.1038/s41467-024-45397-7
 
-
-The contents of this folder include MATLAB scripts for reproducing results in the manuscript (and its supplementary information document).
-
+This folder includes MATLAB scripts for reproducing results in the manuscript and its supplementary information document.
 To reproduce reconstructions, run the corresponding MATLAB scripts as described below. Our code has been tested on MATLAB version 2022a.
 
 Main manuscript results:
