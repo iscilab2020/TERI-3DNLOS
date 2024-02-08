@@ -1,5 +1,5 @@
-# TERI-3DNLOS
-Demonstrates 3D NLOS imaging with an ordinary camera
+# Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera
+## TERI demonstrates 3D NLOS imaging with an ordinary camera
 
 Manuscript:
 Czajkowski, R., Murray-Bruce, J. Two-edge-resolved three-dimensional non-line-of-sight imaging with an ordinary camera. Nat Commun 15, 1162 (2024). 
